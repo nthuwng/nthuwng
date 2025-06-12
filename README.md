@@ -50,7 +50,7 @@
 
 ### 🔧 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code Insider](https://img.shields.io/badge/VS_Code_Insider-68217A?style=for-the-badge&logo=visualstudiocode&logoColor=23B0FF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </div>

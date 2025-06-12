@@ -12,14 +12,14 @@
   <table>
     <tr>
       <td align="left" width="50%">
-        <h3>👨‍💻 Developer Profile</h3>
+        <h3 align="center">👨‍💻 Developer Profile</h3>
         <p><strong>👤 Full Name:</strong> Nguyễn Thịnh Hưng</p>
         <p><strong>📅 Birthday:</strong> March 15, 2003</p>
         <p><strong>📍 Location:</strong> Vietnam 🇻🇳</p>
         <p><strong>💼 Role:</strong> Full-Stack Developer</p>
       </td>
       <td align="left" width="50%">
-        <h3>🎯 My Interests</h3>
+        <h3 align="center">🎯 My Interests</h3>
         <p>⚽ <strong>Football Enthusiast</strong></p>
         <p>🎵 <strong>Music & Singing</strong></p>
         <p>💻 <strong>Programming</strong></p>

@@ -18,7 +18,7 @@
         <p><strong>📍 Location:</strong> Vietnam 🇻🇳</p>
         <p><strong>💼 Role:</strong> Full-Stack Developer</p>
       </td>
-      <td align="left" width="60%">
+      <td align="left" width="80%">
         <h3 align="center">🎯 My Interests</h3>
         <p>⚽ <strong>Football Enthusiast</strong></p>
         <p>🎵 <strong>Music & Singing</strong></p>

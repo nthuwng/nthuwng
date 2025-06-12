@@ -1,4 +1,7 @@
 # Hi there, I'm nthuwng! 👋
+
+---
+
 ## 🚀 About Me
 
 <div align="center">

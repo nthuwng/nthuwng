@@ -135,7 +135,6 @@
 ---
 
 <div align="center">
-  ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
   
   **Thanks for visiting my profile! Have a great day! 🌟**
 </div>

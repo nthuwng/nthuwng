@@ -33,7 +33,8 @@ I'm a full-stack developer with a passion for building scalable web applications
 
 ## 🌟 Featured Projects
 
-/*### 🎯 Project Name 1
+<!---
+### 🎯 Project Name 1
 Brief description of your project and what technologies you used.
 - **Tech Stack**: React, Node.js, MongoDB
 - **Features**: List key features
@@ -43,7 +44,8 @@ Brief description of your project and what technologies you used.
 Brief description of your project and what technologies you used.
 - **Tech Stack**: TypeScript, Express.js, MySQL
 - **Features**: List key features
-- [🔗 Live Demo](your-demo-link) | [📝 Repository](your-repo-link)*/
+- [🔗 Live Demo](your-demo-link) | [📝 Repository](your-repo-link)
+--->
 
 ## 📈 Activity Graph
 

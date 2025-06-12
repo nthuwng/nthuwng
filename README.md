@@ -19,10 +19,6 @@
   **📅 Birthday:** March 15, 2003  
   **📍 Location:** Vietnam 🇻🇳  
   **💼 Role:** Full-Stack Developer  
-  **🔥 Currently Learning:** React, Node.js, TypeScript  
-  **🗣️ Languages:** Vietnamese, English  
-  **💡 Motto:** *"Code with passion, learn continuously!"*
-  
   </td>
   <td align="center" width="50%">
   
@@ -39,9 +35,6 @@
   
   🌱 **Continuous Learning**  
   *Always exploring new technologies*
-  
-  ☕ **Coffee Lover**  
-  *Fuel for coding sessions*
   
   </td>
   </tr>

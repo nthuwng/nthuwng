@@ -14,18 +14,14 @@
   <td align="center" width="50%">
   
   ### 👨‍💻 Developer Profile
-  ```javascript
-  const nthuwng = {
-      name: "nthuwng",
-      age: 21,
-      birthday: "March 15, 2003 🎂",
-      location: "Vietnam 🇻🇳",
-      role: "Full-Stack Developer",
-      currentFocus: ["React", "Node.js", "TypeScript"],
-      languages: ["Vietnamese", "English"],
-      motto: "Code with passion, learn continuously! 💻"
-  };
-  ```
+  
+  **🎂 Age:** 21 years old  
+  **📅 Birthday:** March 15, 2003  
+  **📍 Location:** Vietnam 🇻🇳  
+  **💼 Role:** Full-Stack Developer  
+  **🔥 Currently Learning:** React, Node.js, TypeScript  
+  **🗣️ Languages:** Vietnamese, English  
+  **💡 Motto:** *"Code with passion, learn continuously!"*
   
   </td>
   <td align="center" width="50%">

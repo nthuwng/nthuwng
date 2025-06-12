@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <table width="100%">
+  <table width="300px">
     <tr>
       <td align="left" width="60%">
         <h3 align="center">👨‍💻 Developer Profile</h3>

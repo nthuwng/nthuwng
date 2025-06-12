@@ -15,8 +15,6 @@
   
   ### 👨‍💻 Developer Profile
   
-  **🎂 Age:** 21 years old  
-  
   **📅 Birthday:** March 15, 2003  
   
   **📍 Location:** Vietnam 🇻🇳  

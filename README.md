@@ -28,16 +28,12 @@
   ### 🎯 My Interests
   
   ⚽ **Football Enthusiast**  
-  *Love playing and watching matches*
   
   🎵 **Music & Singing**  
-  *Music fuels my creativity*
   
   💻 **Programming**  
-  *Turning ideas into reality*
   
   🌱 **Continuous Learning**  
-  *Always exploring new technologies*
   
   </td>
   </tr>

@@ -18,14 +18,17 @@
   **🎂 Age:** 21 years old  
   **📅 Birthday:** March 15, 2003  
   **📍 Location:** Vietnam 🇻🇳  
-  **💼 Role:** Full-Stack Developer
+  **💼 Role:** Full-Stack Developer  
+  **🔥 Currently Learning:** React, Node.js, TypeScript  
+  **🗣️ Languages:** Vietnamese, English  
+  **💡 Motto:** *"Code with passion, learn continuously!"*
   
   </td>
   <td align="center" width="50%">
   
   ### 🎯 My Interests
   
-  🏈 **Football Enthusiast**  
+  ⚽ **Football Enthusiast**  
   *Love playing and watching matches*
   
   🎵 **Music & Singing**  

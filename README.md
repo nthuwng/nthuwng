@@ -127,8 +127,7 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenthinhhung150603@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
@@ -137,8 +136,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nthuwng&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  
   ### 💫 *"Code is like humor. When you have to explain it, it's bad."* 
   
   **Thanks for visiting my profile! Have a great day! 🌟**

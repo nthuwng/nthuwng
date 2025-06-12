@@ -22,7 +22,7 @@
   
   **💼 Role:** Full-Stack Developer  
   </td>
-  <td align="center" width="50%">
+  <td align="center" width="60%">
   
   ### 🎯 My Interests
   

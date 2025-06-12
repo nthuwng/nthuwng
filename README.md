@@ -11,17 +11,18 @@
 <div align="center">
   <table>
   <tr>
-  <td align="left" width="60%">
-  
-  👨‍💻 Developer Profile
-  **👤 Full Name:** Nguyễn Thịnh Hưng
-  
-  **📅 Birthday:** March 15, 2003  
-  
-  **📍 Location:** Vietnam 🇻🇳  
-  
-  **💼 Role:** Full-Stack Developer  
-  </td>
+  <table>
+  <tr>
+    <td align="left" width="60%">
+      <h3>👨‍💻 Developer Profile</h3>
+      <p><strong>👤 Full Name:</strong> Nguyễn Thịnh Hưng</p>
+      <p><strong>📅 Birthday:</strong> March 15, 2003</p>
+      <p><strong>📍 Location:</strong> Vietnam 🇻🇳</p>
+      <p><strong>💼 Role:</strong> Full-Stack Developer</p>
+    </td>
+  </tr>
+</table>
+
   <td align="center" width="60%">
   
   ### 🎯 My Interests

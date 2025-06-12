@@ -13,7 +13,7 @@
   <tr>
   <td align="left" width="60%">
   
-  ### 👨‍💻 Developer Profile
+  👨‍💻 Developer Profile
   **👤 Full Name:** Nguyễn Thịnh Hưng
   
   **📅 Birthday:** March 15, 2003  

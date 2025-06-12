@@ -45,14 +45,13 @@ Brief description of your project and what technologies you used.
 - **Tech Stack**: TypeScript, Express.js, MySQL
 - **Features**: List key features
 - [🔗 Live Demo](your-demo-link) | [📝 Repository](your-repo-link)
---->
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nthuwng&theme=react-dark)
 
 ## 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
+--->
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nthuwng&theme=react-dark)
 
 

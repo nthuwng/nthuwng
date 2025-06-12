@@ -61,6 +61,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nthuwng&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+---
+
 <!---
 ## 📊 GitHub Statistics
 
@@ -78,7 +81,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nthuwng&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
---->
 
 ## 🌟 Featured Projects
 
@@ -120,7 +122,7 @@
 </div>
 
 ---
-
+--->
 ## 📫 Let's Connect!
 
 <div align="center">

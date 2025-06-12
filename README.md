@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 <div align="center">
-  <table width="300px">
-    <tr>
+  <table>
+    <tr  width="300px">
       <td align="left" width="60%">
         <h3 align="center">👨‍💻 Developer Profile</h3>
         <p><strong>👤 Full Name:</strong> Nguyễn Thịnh Hưng</p>

@@ -8,10 +8,41 @@
 # Hi there 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves creating amazing web applications.
+🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+a+Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Born+on+March+15%2C+2003+%F0%9F%8E%82;Passionate+about+creating+amazing+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+<br>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+👨‍💻 Developer Life
+javascriptconst nthuwng = {
+    age: 21,
+    birthday: "March 15, 2003 🎂",
+    location: "Vietnam 🇻🇳",
+    focus: "Full-Stack Development",
+    currentlyLearning: ["React", "Node.js", "TypeScript"],
+    askMeAbout: ["Web Dev", "JavaScript", "Coffee ☕"]
+};
+</td>
+<td align="center" width="50%">
+🎯 My Passions
+⚽ Football - Love playing and watching matches
+🎤 Singing - Music is my soul
+💻 Programming - Code is my superpower
+🌱 Learning - Always exploring new tech
+</td>
+</tr>
+</table>
+<div align="center">
+🎵 Currently Vibing To
+Show Image
+</div>
 
-## 🚀 About Me
-
-I'm a full-stack developer with a passion for building scalable web applications and exploring new technologies. I enjoy solving complex problems and creating user-friendly solutions.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 ## 💻 Skills & Technologies
 

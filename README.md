@@ -11,7 +11,7 @@
 <div align="center">
   <table>
   <tr>
-  <td align="center" width="50%">
+  <td align="center" width="60%">
   
   ### 👨‍💻 Developer Profile
   **👤 Full Name:** Nguyễn Thịnh Hưng

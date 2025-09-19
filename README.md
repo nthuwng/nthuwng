@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **nthuwng**  
+# 👋 Hi there, I'm **HuWnG**  
 
 ## 🚀 About Me  
 

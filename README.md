@@ -54,16 +54,6 @@
 
 </div>
 
----
-
-## 📈 Contribution Activity  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nthuwng&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 📫 Let's Connect!  
 
 <div align="center">
